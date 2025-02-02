@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dhanushree1401
 - 👀 I’m interested in creating innovative design
 - 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on python intership and UI/UX,AR/VR design internship
+- 💞️ I’m looking to collaborate on python internship and UI/UX,AR/VR design internship
 - 📫 Reach me via https://www.linkedin.com/in/dhanushree-r-r-2a0797256/ 
 
 
